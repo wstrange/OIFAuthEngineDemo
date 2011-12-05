@@ -1,9 +1,8 @@
+This is a sample custom authentication engine for Oracle Identity Federation. 
 
-This is a sample authentication engine for Oracle Identity Federation. 
+Please see http://blog.warrenstrange.com/2011/12/custom-oif-authentication-engine.html  for more complete documentation.
 
-Please see http://blog.warrenstrange.com/  for more complete documentation.
-
-The AuthSvc/ folder contains a simple Netbeans project that provides a sample SOAP authentication service. The service is just for illustrative purposes; Don't be overly concerned with the implemenation.
+The AuthSvc/ folder contains a Netbeans project for a sample SOAP authentication service. The service is just for illustrative purposes; Don't be overly concerned with the implemenation.
 
 
 The engine/ folder contains the OIF engine that calls out to the sample web service. 
